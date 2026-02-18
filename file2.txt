@@ -3,3 +3,4 @@ cucumber
 carrot
 apple
 pear
+strawberry
