@@ -6,3 +6,4 @@ pear
 strawberry
 hotdog
 burger
+pizza
